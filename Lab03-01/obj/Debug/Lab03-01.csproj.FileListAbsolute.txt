@@ -1,0 +1,30 @@
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\bin\Debug\Lab03-01.exe.config
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\bin\Debug\Lab03-01.exe
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\bin\Debug\Lab03-01.pdb
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\bin\Debug\Interop.WMPLib.dll
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\bin\Debug\AxInterop.WMPLib.dll
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.csproj.AssemblyReference.cache
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\obj\Debug\Interop.WMPLib.dll
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\obj\Debug\AxInterop.WMPLib.dll
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.csproj.ResolveComReference.cache
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03_01.Form1.resources
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03_01.Properties.Resources.resources
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.csproj.GenerateResource.cache
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.csproj.CoreCompileInputs.cache
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.exe
+E:\Hutech\C#(LT moi truong WD)\MTLTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.pdb
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\bin\Debug\Lab03-01.exe.config
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\bin\Debug\Lab03-01.exe
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\bin\Debug\Lab03-01.pdb
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.csproj.ResolveComReference.cache
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03_01.Form1.resources
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03_01.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.exe
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-01\obj\Debug\Lab03-01.pdb

@@ -1,0 +1,20 @@
+E:\Hutech\C#(LT moi truong WD)\source\repos\MTLTWD_FORM-MDI\Lab03-02\bin\Debug\Lab03-02.exe.config
+E:\Hutech\C#(LT moi truong WD)\source\repos\MTLTWD_FORM-MDI\Lab03-02\bin\Debug\Lab03-02.exe
+E:\Hutech\C#(LT moi truong WD)\source\repos\MTLTWD_FORM-MDI\Lab03-02\bin\Debug\Lab03-02.pdb
+E:\Hutech\C#(LT moi truong WD)\source\repos\MTLTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03-02.csproj.AssemblyReference.cache
+E:\Hutech\C#(LT moi truong WD)\source\repos\MTLTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03_02.Form1.resources
+E:\Hutech\C#(LT moi truong WD)\source\repos\MTLTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03_02.Properties.Resources.resources
+E:\Hutech\C#(LT moi truong WD)\source\repos\MTLTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03-02.csproj.GenerateResource.cache
+E:\Hutech\C#(LT moi truong WD)\source\repos\MTLTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
+E:\Hutech\C#(LT moi truong WD)\source\repos\MTLTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03-02.exe
+E:\Hutech\C#(LT moi truong WD)\source\repos\MTLTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03-02.pdb
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-02\bin\Debug\Lab03-02.exe.config
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-02\bin\Debug\Lab03-02.exe
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-02\bin\Debug\Lab03-02.pdb
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03-02.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03_02.Form1.resources
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03_02.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03-02.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03-02.exe
+C:\Users\Administrator\Source\Repos\LTMTWD_FORM-MDI\Lab03-02\obj\Debug\Lab03-02.pdb
